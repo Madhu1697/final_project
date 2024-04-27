@@ -1,7 +1,8 @@
-# final_project
-This is the name of the project. Used for my main project
-**Project Description:**
-The main aim is to create and execute the final project like how it goes.
-**License**
-The license used here is Apache 2.O
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
